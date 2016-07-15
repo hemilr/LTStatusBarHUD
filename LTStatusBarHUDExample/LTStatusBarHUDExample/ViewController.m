@@ -37,7 +37,7 @@
 }
 
 - (IBAction)normal {
-    [LTStstusBarHUD showMessage:@"HAHAHA"] ;
+    [LTStstusBarHUD showMessage:@"HAHAHA"];
 }
 
 @end
