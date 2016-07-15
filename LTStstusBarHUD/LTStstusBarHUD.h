@@ -2,7 +2,7 @@
 //  LTStstusBarHUD.h
 //  LTStatusBarHUD
 //
-//  Created by 七扇门 on 16/7/14.
+//  Created by Seven Door on 16/7/14.
 //  Copyright © 2016年 luotao. All rights reserved.
 //
 

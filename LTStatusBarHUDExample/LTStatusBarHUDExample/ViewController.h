@@ -2,7 +2,7 @@
 //  ViewController.h
 //  LTStatusBarHUDExample
 //
-//  Created by 七扇门 on 16/7/15.
+//  Created by Seven Door on 16/7/15.
 //  Copyright © 2016年 luotao. All rights reserved.
 //
 
